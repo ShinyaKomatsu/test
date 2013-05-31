@@ -6,3 +6,5 @@
 *.csproj
 *.unityproj
 *.sln
+*.sublime-project
+*.sublime-workspace
